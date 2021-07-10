@@ -44,8 +44,8 @@
  3. Possui um carrosel com 2 imagem trocando e posição e com seus títulos também feitos com o Bootstrap
 
 ## ✂ Sobre
-Projeto criado com intuito de colocar em prática os conhecimentos do Bootstrap 5.
- 
+Projeto criado com intuito de colocar em prática os conhecimentos do Bootstrap 4.
+
   - Manter o código limpo e bem feito seguindo as boas práticas do desenvolvimento HTML5, agilizando o desenvolvimento,
   - Utlização de componentes prontos de navbar, carrossel, cards e modais para criar sites responsivos automaticamente,
   - Utilização de método de desenvolvimento front-end para que suas aplicações sejam sempre responsivas, simples e funcionais independente do dispositivo,
