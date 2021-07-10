@@ -70,7 +70,6 @@ Projeto criado com intuito de colocar em prática os conhecimentos do Bootstrap 
 - Continuar buscando outros estilos do Boostrap para usar no site
 - Buscar mais informações de como usar versões mais recentes do framework
 
-------
 ## 🖊️Autor
 
  Site desenvolvido por Amadeu Filipe Lopes 👋🏽 [Entre em contato!](mailto:felipe301016@hotmail.com)
