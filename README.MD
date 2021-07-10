@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    <p>📷screenshot</p>
+    <p>📷Screenshot</p>
 </h3>
 
 ![](./src/img/Screenshot.png)
